@@ -37,6 +37,7 @@ Churches often have the following software requirements:
 - Congregation Management
 - Tithing/Offering Management
 - Bible App
+- Vacation Bible School System
 
 Are we missing a category? Suggest one [here](https://github.com/meichthys/opensource_church_software/issues/new?title=Category%20Suggestion:%20<your_category_suggestion_here>&body=Please%20explain%20why%20this%20category%20is%20useful...) or [fork this project](https://github.com/meichthys/opensource_church_software/fork) and submit a pull requset.
 
@@ -78,3 +79,7 @@ Additional details will eventually be added to each software solution (pros/cons
 ### Bible App
 
 [AndBible](https://andbible.github.io/)
+
+## Vacation Bible School System
+
+[Vacation-Bible-School-System](https://github.com/prabhu-qea/Vacation-Bible-School-System)
