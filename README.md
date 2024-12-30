@@ -8,7 +8,7 @@ Free and open-source alternatives to paid church software
 This project *is not* intended to:
 
 - Discourage or diminish the use or effectiveness of great [paid church software](https://churchm.ag/church-management-software/)
-- Be a comprehensive list of all open-source church software (See [here](https://github.com/mattrob33/christian-projects) instead)
+- Be a comprehensive list of all open-source church software (See [here](https://github.com/meichthys/christian_foss) instead)
 - Provide the __best__ solution to all church software needs
 - Be a guide on how to install/configure each software suggested
 
