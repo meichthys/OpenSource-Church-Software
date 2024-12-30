@@ -80,6 +80,6 @@ Additional details will eventually be added to each software solution (pros/cons
 
 [AndBible](https://andbible.github.io/)
 
-## Vacation Bible School System
+### Vacation Bible School System
 
 [Vacation-Bible-School-System](https://github.com/prabhu-qea/Vacation-Bible-School-System)
